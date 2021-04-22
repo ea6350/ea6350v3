@@ -6,7 +6,5 @@ src-git lienol https://github.com/Lienol/openwrt-package.git;main
 src-git diy1 https://github.com/xiaorouji/openwrt-passwall.git;main
 src-git freifunk https://github.com/freifunk/openwrt-packages.git;openwrt-19.07
 src-get helloworld https://github.com/fw876/helloworld
-src-get lienol1 https://github.com/chengood5000/passwall652.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
-src-git vssr https://github.com/OpenWrt-Actions/luci-app-vssr
